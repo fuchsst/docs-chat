@@ -1,0 +1,15 @@
+git-repos:
+  argo-workflows:
+    description: Argo Workflows Documentation
+    repo: https://github.com/argoproj/argo-workflows.git
+    url: https://github.com/argoproj/argo-workflows/tree/master/
+    branch: master
+    directories:
+      - /docs
+  dbt:
+    description: dbt Documentation
+    repo: https://github.com/dbt-labs/docs.getdbt.com.git
+    url: https://github.com/dbt-labs/docs.getdbt.com/tree/current/
+    branch: current
+    directories:
+      - /website/docs

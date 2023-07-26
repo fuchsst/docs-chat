@@ -11,3 +11,5 @@ git+https://github.com/UKPLab/sentence-transformers.git
 InstructorEmbedding
 faiss-cpu
 einops
+bitsandbytes
+xformers
